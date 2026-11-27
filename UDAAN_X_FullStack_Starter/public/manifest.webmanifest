@@ -1,0 +1,14 @@
+{
+  "name": "UDAAN X by VYORA AI",
+  "short_name": "UDAAN X",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fc",
+  "theme_color": "#101a35",
+  "description": "A multilingual AI workspace for Punjabi, Hindi and English.",
+  "lang": "pa",
+  "categories": ["productivity", "education", "utilities"],
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
